@@ -1,0 +1,8 @@
+{
+  "prefix": "+",
+  "token": "",
+  "dmlogger": {
+    "enabled": true,
+    "webhook": "https://discord.com/api/webhooks/1407356289625096293/cCuTNE2zG4MpSOfiKeJNP6v5MpiVMNKPUorn5jeASgHcyBmLy1y8rrzhG4CKX2WBhQj-"
+  }
+}

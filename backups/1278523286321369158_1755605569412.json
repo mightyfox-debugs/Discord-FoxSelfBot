@@ -1,0 +1,159 @@
+{
+  "id": "1278523286321369158_1755605569412",
+  "name": "Cfx.re / Guild",
+  "icon": "https://cdn.discordapp.com/icons/1278523286321369158/5596e2e91c161b3e1f8109e3f58caac1.webp",
+  "roles": [
+    {
+      "name": "+",
+      "color": 16184821,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "QLM",
+      "color": 16777215,
+      "hoist": true,
+      "permissions": "1071698529857",
+      "mentionable": false
+    },
+    {
+      "name": "DISBOARD.org",
+      "color": 0,
+      "hoist": false,
+      "permissions": "19473",
+      "mentionable": false
+    },
+    {
+      "name": "bot",
+      "color": 0,
+      "hoist": false,
+      "permissions": "693741094409",
+      "mentionable": false
+    },
+    {
+      "name": "Weria",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "MEE6",
+      "color": 0,
+      "hoist": false,
+      "permissions": "1945627743",
+      "mentionable": false
+    },
+    {
+      "name": "DH Bump",
+      "color": 0,
+      "hoist": false,
+      "permissions": "19473",
+      "mentionable": false
+    },
+    {
+      "name": "Atlas",
+      "color": 0,
+      "hoist": false,
+      "permissions": "2117463294",
+      "mentionable": false
+    },
+    {
+      "name": ">.<",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "Trop QLF",
+      "color": 16023551,
+      "hoist": false,
+      "permissions": "2221707229201921",
+      "mentionable": false
+    },
+    {
+      "name": "J'suis QLF",
+      "color": 16777215,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "Vrai Frères",
+      "color": 131072,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "crown",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "nouveau rôle",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "ENFANT DE PUTE",
+      "color": 16711930,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "InviteLogger",
+      "color": 0,
+      "hoist": false,
+      "permissions": "268462304",
+      "mentionable": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "🎁",
+      "position": 0
+    }
+  ],
+  "channels": [
+    {
+      "name": "💬・chat",
+      "type": "GUILD_TEXT",
+      "parent": "🎁",
+      "nsfw": false,
+      "topic": null,
+      "position": 0
+    },
+    {
+      "name": "rules",
+      "type": "GUILD_TEXT",
+      "parent": null,
+      "nsfw": false,
+      "topic": null,
+      "position": 0
+    },
+    {
+      "name": "moderator-only",
+      "type": "GUILD_TEXT",
+      "parent": null,
+      "nsfw": false,
+      "topic": null,
+      "position": 1
+    },
+    {
+      "name": "𖤐・guilds",
+      "type": "GUILD_TEXT",
+      "parent": "🎁",
+      "nsfw": false,
+      "topic": null,
+      "position": 1
+    }
+  ]
+}
